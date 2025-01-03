@@ -1,6 +1,3 @@
-Here's the complete `README.md` file in markdown format:
-
-
 # SequentialRenamer
 
 SequentialRenamer is a lightweight and user-friendly GUI tool designed to help users organize and rename files in a folder. By sorting files based on their creation time, it renames them sequentially (e.g., `1`, `2`, `3`, etc.), making file organization simple and efficient.
@@ -40,9 +37,7 @@ SequentialRenamer uses standard libraries (`os`, `pathlib`, and `tkinter`), so n
 
 1. Clone the repository:  
   
-   git clone https://github.com/your-username/SequentialRenamer.git
-   cd SequentialRenamer
-   ```
+   git clone https://github.com/XDR-SAM/Sequential-Renamer.git
 
 2. Run the program:  
   
